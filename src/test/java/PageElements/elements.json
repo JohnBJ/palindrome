@@ -2,5 +2,5 @@
     "Page":"The Palindrome Exercise",
     "palindromeResult":"div#palindromeResult",
     "submitButton":"#button1",
-    "origionalWord":"#originalWord"
+    "originalWord":"#originalWord"
 }
